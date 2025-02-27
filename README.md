@@ -6,20 +6,17 @@ As part of the EPA analytics team, you will analyze air quality data focusing on
 
 ## Objectives
 
-Apply descriptive statistics techniques.
-
-Analyze CO levels in air quality data.
-
-Use Python for statistical computations and visualizations.
+* Apply descriptive statistics techniques.
+* Analyze CO levels in air quality data.
+* Use Python for statistical computations and visualizations.
 
 ## Dataset
 
-Includes state, county, city, local site name, and CO levels.
+* Includes state, county, city, local site name, and CO levels.
 
-Technologies Used
+## Technologies Used
 
-Python
+* Python
+* Pandas
+* NumPy 
 
-Pandas, NumPy (data analysis)
-
-Matplotlib, Seaborn (visualization)
